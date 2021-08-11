@@ -3,3 +3,4 @@
 ## fase 1
 
 [mapa mental 1](https://github.com/ElisaGzz/Mineria-de-datos-EG/blob/main/mapamentalEGGmineria.pdf)
+[examen diagnostico](https://github.com/ElisaGzz/Mineria-de-datos-EG/blob/main/Examen%20diagnosticoEGG.pdf)
