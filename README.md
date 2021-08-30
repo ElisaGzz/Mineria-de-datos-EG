@@ -9,3 +9,7 @@
 [Tarea en equipo base de datos](https://github.com/ReneSRuiz/Mineria_de_datos/blob/main/Equipo_11-Ejercicio%20base%20de%20datos.pdf)
 
 [Ejemplos python](https://github.com/ElisaGzz/Mineria-de-datos-EG/blob/main/Ej_Python_1858207.ipynb)
+
+[Ejemplo limpieza](https://github.com/ReneSRuiz/Mineria_de_datos/blob/main/Ej_Limpieza_11.ipynb)
+
+
