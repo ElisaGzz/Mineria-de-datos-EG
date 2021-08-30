@@ -12,4 +12,7 @@
 
 [Ejemplo limpieza](https://github.com/ReneSRuiz/Mineria_de_datos/blob/main/Ej_Limpieza_11.ipynb)
 
+[Avance del PIA](https://github.com/ReneSRuiz/Mineria_de_datos/blob/main/Avance1_PIA_Equipo_11.ipynb)
+
+
 
