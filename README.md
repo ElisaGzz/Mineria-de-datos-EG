@@ -14,5 +14,5 @@
 
 [Avance del PIA](https://github.com/ReneSRuiz/Mineria_de_datos/blob/main/Avance1_PIA_Equipo_11.ipynb)
 
-
+[Presentacion Outliers](https://github.com/ReneSRuiz/Mineria_de_datos/blob/main/Prersentaci%C3%B3n_Detecci%C3%B3n%20de%20Outliers_Equipo%2011.pdf)
 
