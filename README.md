@@ -20,7 +20,7 @@
 
 [Visualización de datos](https://github.com/ReneSRuiz/Mineria_de_datos/blob/main/Visualizaci%C3%B3n_Equipo11.ipynb)
 
-[Avance de PIA pt.2]()
+[Avance de PIA pt.2](https://github.com/ReneSRuiz/Mineria_de_datos/blob/main/AvancePIA_II_001_11.ipynb)
 
 
 
