@@ -22,5 +22,6 @@
 
 [Avance de PIA pt.2](https://github.com/ReneSRuiz/Mineria_de_datos/blob/main/AvancePIA_II_001_11.ipynb)
 
+[Técnica Minería Equipo11](https://github.com/ReneSRuiz/Mineria_de_datos/blob/main/T%C3%A9cnia_Miner%C3%ADa_11.ipynb)
 
 
