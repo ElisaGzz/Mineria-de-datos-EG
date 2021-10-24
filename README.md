@@ -25,3 +25,5 @@
 [Técnica Minería Equipo11](https://github.com/ReneSRuiz/Mineria_de_datos/blob/main/T%C3%A9cnia_Miner%C3%ADa_11.ipynb)
 
 [NotebookFinal_Equipo11](https://github.com/ReneSRuiz/Mineria_de_datos/blob/main/NotebookFinal_Equipo11.ipynb)
+
+[Que no se coman a tu rey](https://github.com/ReneSRuiz/Mineria_de_datos/blob/main/Que%20no%20se%20coman%20a%20tu%20rey.pdf)
